@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Rabid-Rabbit",
+    "addresses": [
+      ""
+    ],
+    "link": "https://rabid-rabbit.org/account/trade/LC2-USDT"
+  },
+  {
+    "id": 2,
+    "name": "NestEX",
+    "addresses": [
+      ""
+    ],
+    "link": "https://trade.nestex.one/spot/LC2"
+  }
+]
